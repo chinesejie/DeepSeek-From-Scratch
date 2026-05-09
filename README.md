@@ -31,7 +31,7 @@ The repository is organized by chapter. Each `chXX/` directory contains the `REA
 - **/ch04/**: Mixture-of-Experts (MoE) in DeepSeek.
 - **/ch05/**: Multi-Token Prediction and FP8 Quantization.
 - **/ch06/**: The DeepSeek Training Pipeline.
-- **/ch07/**: Post Training: SFT and Reinforcement Learning.
+- **/ch07/**: Post Training: SFT and Reinforcement Learning. Includes the runnable [minimal GRPO + RLVR code](ch07/01_main-chapter-code/grpo_rlvr_minimal.py).
 - **/ch08/**: Knowledge Distillation.
 
 We hope you find this resource valuable on your journey to mastering modern LLM architecture!
